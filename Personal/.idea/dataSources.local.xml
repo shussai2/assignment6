@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Sqlite (Xerial) - identifier.sqlite" uuid="060056de-77ac-448a-ade2-185fe9cb2a58">
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails Personal: development" uuid="a7a74bd2-c797-4a16-ac8a-3c62e823d56c">
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
